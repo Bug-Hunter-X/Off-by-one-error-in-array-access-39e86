@@ -1,0 +1,2 @@
+# Off-by-One Error in C
+This repository demonstrates a common off-by-one error in C code involving array access.  The `bug.c` file contains the erroneous code, while `bugSolution.c` provides the corrected version. The error arises from an incorrect loop condition that attempts to access an array element beyond its defined bounds. This can lead to program crashes, unexpected behavior, or security vulnerabilities.  The solution demonstrates how to correct the loop condition to prevent this issue. 
